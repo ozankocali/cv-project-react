@@ -1,6 +1,9 @@
 const ContactComponent = () => {
   return (
-   <h1>contact</h1>
+    <div class="container">
+      <h1>Hazırlanıyor</h1>
+      <h5>Çok yakında...</h5>
+    </div>
   );
 };
 

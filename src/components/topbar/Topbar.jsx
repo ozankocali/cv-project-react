@@ -28,11 +28,6 @@ const TopbarComponent = () => {
                 Hakkımda
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/contact">
-                İletişim
-              </a>
-            </li>
           </ul>
         </div>
       </div>
